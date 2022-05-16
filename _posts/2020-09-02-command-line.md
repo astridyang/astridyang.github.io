@@ -22,6 +22,7 @@ This command does not move the file but rather renames it from original to newna
 #### stop firewall
 ```systemctl stop firewalld```  
 #### start redis
-```redis-server /opt/redis.conf
+```
+   redis-server /opt/redis.conf
    redis-cli  
 ```  
